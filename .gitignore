@@ -1,0 +1,14 @@
+
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+*.iml
+*.class
+.idea/libraries/Maven__com_google_guava_guava_19_0.xml
+.idea/libraries/Maven__log4j_log4j_1_2_16.xml
+.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml
+.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
