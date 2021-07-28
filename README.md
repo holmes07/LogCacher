@@ -1,1 +1,1 @@
-# com.tencent.logCacher.LogCacher
+日志收敛工具
