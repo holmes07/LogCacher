@@ -45,7 +45,8 @@ public class LogCacherFactory {
                 cacher_interval_10s.printIfConditionMeet("" + i, "10s", 10);
             }
             LogCacherFactory.shutdown();
-            //add message desc
+            //add dev branch   rebase 作用。。。推送到不同分支
+            // add 1
         } catch (Exception e) {
             e.printStackTrace();
         }
