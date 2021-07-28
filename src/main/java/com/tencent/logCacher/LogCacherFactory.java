@@ -48,6 +48,8 @@ public class LogCacherFactory {
             //add dev branch   rebase 作用。。。推送到不同分支
             // add 1
             // add 2
+            // add 3
+            // add 4
         } catch (Exception e) {
             e.printStackTrace();
         }

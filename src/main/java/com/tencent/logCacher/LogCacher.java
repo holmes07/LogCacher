@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by kennyjiang on 2017/5/19.
+ * Created by kennyjiang on 2017/5/19. update 5
  */
 public class LogCacher {
     private static final Logger LOG = LoggerFactory.getLogger(LogCacher.class);
